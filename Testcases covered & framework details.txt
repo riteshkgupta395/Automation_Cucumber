@@ -1,0 +1,10 @@
+As per the assignment, I have created and implemented two test cases using the WebDriverIO framework with Cucumber.
+
+The two test cases cover the following scenarios:
+
+Verify that the webpage opens correctly: This test checks if the webpage is successfully loaded.
+Verify that the options on the webpage are clickable: This test checks if the 'Documentation' and 'Community' options are clickable. After tapping on each option, it verifies that the corresponding tab opens and the content is visible. Additionally, it ensures that the correct page is loaded by verifying the page title.
+These tests ensure that the options are clickable and lead to the correct pages as per the requirements."
+
+
+Artifacts - Attaching the artifacts as screen recorder also where the testcases running in my local system.
